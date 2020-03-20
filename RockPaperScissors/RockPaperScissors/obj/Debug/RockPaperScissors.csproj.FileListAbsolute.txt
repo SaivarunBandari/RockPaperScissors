@@ -1,0 +1,15 @@
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\saiva\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
